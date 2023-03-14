@@ -13,3 +13,6 @@ FPS Horror game made in Unity
 - Weapons switch: Weapons can be cycled through
 - Ammo count: Can observe how much ammo you have left 
 - Flashlight: Flashlight mechanic with recharging 
+
+
+![Walking dead3](https://user-images.githubusercontent.com/106979924/224992034-151f248c-e66e-4268-b912-48596a7e5331.png)
