@@ -3,7 +3,7 @@ FPS Horror game made in Unity
 
 
 ## Features
-- FPS: First Person Camera movement
+- Camera: First Person Camera movement
 - Shooting: Raycasting to shoot
 - Enemy AI: Enemy movement and attacking with animations 
 - Health and damage system: Enemies can inflict certain damage
