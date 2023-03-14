@@ -16,3 +16,5 @@ FPS Horror game made in Unity
 
 
 ![Walking dead3](https://user-images.githubusercontent.com/106979924/224992034-151f248c-e66e-4268-b912-48596a7e5331.png)
+![Walking dead2](https://user-images.githubusercontent.com/106979924/224992113-1ceb1874-14a2-4a5e-9193-43f1530d29f5.png)
+![Walking dead](https://user-images.githubusercontent.com/106979924/224992159-4c643ee0-e16e-4837-a33d-7e9e91cca786.png)
